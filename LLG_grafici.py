@@ -11,8 +11,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 warnings.filterwarnings('ignore')
 import plotly.graph_objects as go
-from PyPDF2 import PdfReader
-import tabula
+
 
 ####### Impaginazione
 
